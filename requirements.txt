@@ -1,3 +1,19 @@
-aiogram==3.1.0
+# Telegram bot framework
+aiogram==3.3.0
+
+# HTTP client
 aiohttp==3.8.6
+
+# Asynchronous file operations
+aiofiles==23.1.0
+
+# Data validation
 pydantic==2.11.0
+
+# Ensure compatible typing extensions
+typing-extensions==4.12.2
+
+# Other dependencies required by aiogram
+certifi>=2023.7.22
+magic-filter==1.0.12
+attrs>=17.3.0
