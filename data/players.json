@@ -1,0 +1,73 @@
+{
+    "397447568": {
+        "name": "Володимир Артемов",
+        "level": 1,
+        "exp": 0,
+        "stats": {
+            "strength": 0,
+            "agility": 0,
+            "vitality": 0,
+            "intelligence": 0,
+            "discipline": 0,
+            "finance": 0,
+            "charisma": 0,
+            "luck": 0
+        },
+        "daily": {
+            "financial": false,
+            "mental": false,
+            "physical": false,
+            "personal": false
+        },
+        "last_done": {},
+        "action_history": [],
+        "achievements": [],
+        "done_actions": []
+    },
+    "7160246122": {
+        "name": "Володимир Артемов",
+        "level": 1,
+        "exp": 30,
+        "stats": {
+            "strength": 0,
+            "agility": 0,
+            "vitality": 0,
+            "intelligence": 1,
+            "discipline": 0,
+            "finance": 0,
+            "charisma": 1,
+            "luck": 0
+        },
+        "daily": {
+            "financial": true,
+            "mental": true,
+            "physical": true,
+            "personal": true
+        },
+        "last_done": {
+            "Push-ups set": "2025-11-21T11:53:01.431258",
+            "Slovak: grammar practice": "2025-11-21T11:53:10.963728",
+            "Post / story": "2025-11-21T11:53:16.257198"
+        },
+        "action_history": [
+            {
+                "action": "Push-ups set",
+                "ts": "2025-11-21T11:53:01.431258"
+            },
+            {
+                "action": "Slovak: grammar practice",
+                "ts": "2025-11-21T11:53:10.963728"
+            },
+            {
+                "action": "Post / story",
+                "ts": "2025-11-21T11:53:16.257198"
+            }
+        ],
+        "achievements": [],
+        "done_actions": [
+            "Push-ups set",
+            "Slovak: grammar practice",
+            "Post / story"
+        ]
+    }
+}
